@@ -10,8 +10,6 @@ A small curated collection of tools, infrastructure, and sources of knowledge an
 
 - [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian) + [Excalidraw Plugin](https://obsidian.md/plugins?id=obsidian-excalidraw-plugin)
 
-- [uBlock Origin](https://github.com/gorhill/uBlock)
-
 - [Typst](https://typst.app/)
 
 ## YouTube Resources
@@ -24,6 +22,8 @@ A small curated collection of tools, infrastructure, and sources of knowledge an
 - [DeepFindr](https://www.youtube.com/@DeepFindr)
   
 - [Jia-Bin Huang](https://www.youtube.com/c/JiaBinHuang)
+
+- [Deepia](https://www.youtube.com/@Deepia-ls2fo)
   
 - [Rational Animations](https://www.youtube.com/@RationalAnimations)
 
@@ -56,9 +56,16 @@ A small curated collection of tools, infrastructure, and sources of knowledge an
 
 - [PySR](https://github.com/MilesCranmer/PySR)
 
-## Other / Unrelated
+## Methods
+
+- [Benefits of plotting CDFs instead of Histograms (Kuhn 2014)](https://www.andata.at/en/software-blog-reader/why-we-love-the-cdf-and-do-not-like-histograms-that-much.html)
+
+- [Approximate Randomization (Noreen 1989)](https://archive.org/details/computerintensiv0000nore) & [Permutation Test (Fisher 1935)](https://home.iitk.ac.in/~shalab/anova/DOE-RAF.pdf)
+
+- [Validity, Reliability, and Significance: Empirical Methods for NLP and Data Science (Riezler & Hagmann 2021 / 2024)](https://www.cl.uni-heidelberg.de/statnlpgroup/empirical_methods/)
+
+## Other
+
 - [FanControl](https://github.com/Rem0o/FanControl.Releases)
 
-- [OpenWeather](https://openweathermap.org)
-  
-- [DWD Map](https://www.dwd.de)
+- [uBlock Origin](https://github.com/gorhill/uBlock)
