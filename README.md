@@ -31,8 +31,6 @@ A small curated collection of tools, infrastructure, and sources of knowledge an
 
 ## Development Environment
 - [Visual Studio Code](https://code.visualstudio.com/)
-  
-  - [Git Graph Extension](https://github.com/mhutchie/vscode-git-graph)
     
   - [RainbowCSV Extension](https://github.com/mechatroner/vscode_rainbow_csv)
     
